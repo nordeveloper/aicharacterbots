@@ -1,0 +1,16 @@
+{
+    "require": {
+      "illuminate/database": "^8.83"
+    },
+    "require-dev": {
+      "friendsofphp/php-cs-fixer": "^3.0",
+      "symfony/var-dumper": "^5.4",
+      "filp/whoops": "^2.15"
+   },
+    "autoload": {
+      "classmap": [
+          "classes",
+          "model"
+      ]
+    }
+}
